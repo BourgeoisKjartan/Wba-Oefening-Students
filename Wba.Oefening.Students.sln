@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wba.Oefening.Students.Web", "Wba.Oefening.Students\Wba.Oefening.Students.Web.csproj", "{39327F16-F2C0-48FA-933C-8C0405136D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wba.Oefening.Students.Domain", "Wba.Oefening.Students.Domain\Wba.Oefening.Students.Domain.csproj", "{27E0DEF3-8B80-421C-814D-F984C56A96CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39327F16-F2C0-48FA-933C-8C0405136D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39327F16-F2C0-48FA-933C-8C0405136D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39327F16-F2C0-48FA-933C-8C0405136D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39327F16-F2C0-48FA-933C-8C0405136D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E0DEF3-8B80-421C-814D-F984C56A96CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E0DEF3-8B80-421C-814D-F984C56A96CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E0DEF3-8B80-421C-814D-F984C56A96CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E0DEF3-8B80-421C-814D-F984C56A96CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55CA7202-8F0F-43D9-8504-5454F899498E}
+	EndGlobalSection
+EndGlobal

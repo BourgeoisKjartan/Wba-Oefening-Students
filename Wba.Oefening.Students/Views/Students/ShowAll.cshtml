@@ -1,0 +1,9 @@
+﻿@model Wba.Oefening.Students.Web.ViewModels.StudentsShowAllVm
+@{ foreach (var student in Model.Students)
+    {
+<table>
+    <tr>
+        @student.Course
+        @student.FirstName @student.LastName
+    </tr>
+</table> } }
